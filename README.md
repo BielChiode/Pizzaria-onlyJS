@@ -1,2 +1,2 @@
 # Pizzaria-onlyJS
-Projeto de uma pizzaria feito com apenas Javascript.
+Projeto de uma pizzaria feito apenas com Javascript.
